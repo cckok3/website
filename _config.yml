@@ -86,7 +86,7 @@ author:
   bio              : "Economic history, political economy, and applied microeconomics <br> <br> Ph.D Candidate at Monash University, <a style='color: black;' href='https://www.monash.edu/business/economics'>Department of Economics</a> & <a style='color: black;' href='https://www.monash.edu/business/impact-labs/soda-labs'>Halıcıoğlu SoDa Labs</a>"
   location         : "Melbourne, Australia"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  googlescholar    : 
   email            :
   uri              : 
   bitbucket        :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "staeiou"
+  github           : "cckok3"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : "https://twitter.com/chuncheekok"
   vine             :
   weibo            :
   xing             :
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Melbourne # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
