@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /articles/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
     
   #- title: "Expressions"
   #  url: /expressions/
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
