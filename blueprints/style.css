@@ -1,5 +1,5 @@
 body {
-font-family: helvetica;
+font-family: Arial;
 	margin: 0px; 
 	padding: 0px;
 	min-height: 100%;
@@ -17,7 +17,8 @@ a:visited {
 color:#888888;
 }
 
-.research-title a {
+.research-title {
+	color: #000000; /* Or any color you prefer */
 	text-decoration: none;
   }
   
