@@ -49,7 +49,7 @@ atom_feed:
 read_more                : "enabled" # if enabled, adds a "read more" link to excerpts 
 future                   : true
 theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # SEO Related
