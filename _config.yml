@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chun Chee"
+title                    : "Chun Chee kok"
 title_separator          : "-"
-name                     : &name "Chun Chee "
+name                     : &name "Chun Chee Kok"
 description              : &description "economic history<br/>political economy"
-url                      : https://stuartgeiger.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cckok3.github.io/website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staeiou/staeiou.github.io"
+repository               : "cckok3.github.io/website"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-seo_description          : "Site for Richard Stuart Geiger, Professor of Communication and Data Science at UC San Diego"
+seo_description          : "Site for Chun Chee Kok, Ph.D Candidate of Economics at Monash University"
 words_per_minute         : 160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -79,12 +79,12 @@ social:
 
 # Site Author
 author:
-  name             : "R. Stuart Geiger"
-  avatar           : "oban3.jpg"
+  name             : "Chun Chee Kok"
+  avatar           : #"oban3.jpg"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
-  location         : "San Diego, CA"
+  bio              : "Economic history, political economy, and applied microeconomics <br> <br> Ph.D Candidate at Monash University, <a style='color: black;' href='https://www.monash.edu/business/economics'>Department of Economics</a> & <a style='color: black;' href='https://www.monash.edu/business/impact-labs/soda-labs'>Halıcıoğlu SoDa Labs</a>"
+  location         : "Melbourne, Australia"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
   email            :
