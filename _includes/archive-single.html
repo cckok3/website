@@ -44,16 +44,6 @@
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
   {% endif %}
   
-<!-- Co-authors -->
-    {% if post.coauthors %}
-  <p class="archive__item-coauthors">
-    Joint work with:
-    {% for coauthor in post.coauthors %}
-      <a href="{{ coauthor.url }}" class="no-underline">{{ coauthor.name }}</a>{% if forloop.last == false %}, {% endif %}
-    {% endfor %}
-  </p>
-  {% endif %}
-
     
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
