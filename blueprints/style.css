@@ -129,9 +129,12 @@ width:1000px;
 }
 
 .archive__item-title,
-.archive__item-title a {
-  font-weight: bold; /* Makes the text bold */
-  text-decoration: none; /* Removes the underline from the text */
-  color: #FFF; /* Or any other color you prefer for the title text */
+.archive__item-title a:link, /* Unvisited links */
+.archive__item-title a:visited, /* Visited links */
+.archive__item-title a:hover, /* User hovers */
+.archive__item-title a:active { /* Active links */
+  color: #000000; /* Black color */
+  text-decoration: none; /* No underline */
+  font-weight: bold; /* Bold font */
 }
 
