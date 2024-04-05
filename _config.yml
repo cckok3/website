@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chun Chee kok"
+title                    : "Chun Chee KOK"
 title_separator          : "-"
-name                     : &name "Chun Chee Kok"
+name                     : &name "Chun Chee KOK"
 description              : &description "economic history<br/>political economy"
 url                      : https://cckok3.github.io/website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
