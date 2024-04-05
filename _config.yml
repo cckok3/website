@@ -120,7 +120,7 @@ include:
   - .htaccess
   - _pages
   - "*.pdf"
-  - "papers/*.pdf"
+  - "research/*.pdf"
   - "portfolio/papers/*.pdf"
   - "portfolio/*.pdf"
 exclude:
