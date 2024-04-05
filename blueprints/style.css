@@ -17,9 +17,8 @@ a:visited {
 color:#888888;
 }
 
-a {
-	color: #fff000;
-	text-decoration: none; /* Add this line to remove underlines */
+.research-title a {
+	text-decoration: none;
   }
   
 
