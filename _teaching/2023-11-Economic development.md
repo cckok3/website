@@ -4,6 +4,6 @@ collection: teaching
 teaching_type: "Course"
 permalink: /teaching/fall08-505/ 
 institution: "Monash University, Department of Economics"
-date: 2023-11
+date: 2023-11-01
 excerpt: "Masters/Honours course, Guest Lecture"
 ---
