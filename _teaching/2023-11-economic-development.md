@@ -1,5 +1,5 @@
 ---
-title: "ECC 4670: Economic Development (Semester 2 2023, Monash)"
+title: "ECC4670: Economic Development (Semester 2 2023, Monash)"
 collection: teaching
 teaching_type: "Course"
 permalink: /teaching/fall08-505/ 
