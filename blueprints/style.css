@@ -25,15 +25,15 @@ padding-left:53px;
 
 #intro h3 {
 font-family: 'Lithos Pro', arial, sans-serif;
-font-size:15px;
-line-height:25px;
+font-size:11px;
+line-height:20px;
 text-align:center;
 }
 
 #supportingText h3 {
 font-family: 'Lithos Pro', arial, sans-serif;
-font-size:12px;
-line-height:25px;
+font-size:11px;
+line-height:20px;
 text-align:center;
 }
 
@@ -46,7 +46,7 @@ position:absolute;
 top:280px;
 left:200px;
 width:450px;
-font-size:12px;
+font-size:11px;
 z-index:10;
 }
 
