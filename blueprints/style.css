@@ -32,7 +32,7 @@ text-align:center;
 
 #supportingText h3 {
 font-family: 'Lithos Pro', arial, sans-serif;
-font-size:15px;
+font-size:12px;
 line-height:25px;
 text-align:center;
 }
@@ -46,7 +46,7 @@ position:absolute;
 top:280px;
 left:200px;
 width:450px;
-font-size:15px;
+font-size:12px;
 z-index:10;
 }
 
