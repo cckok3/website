@@ -7,7 +7,6 @@ background: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/header
 background: #00007f;
 color:#FFF;
 overflow-x: hidden; 
-font-size: 12px; /* Adjust as needed */
 }
 
 a {
@@ -26,7 +25,7 @@ padding-left:53px;
 
 #intro h3 {
 font-family: 'Lithos Pro', arial, sans-serif;
-font-size:24px;
+font-size:15px;
 line-height:25px;
 text-align:center;
 }
