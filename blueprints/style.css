@@ -7,6 +7,7 @@ background: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/header
 background: #00007f;
 color:#FFF;
 overflow-x: hidden; 
+font-size: 12px; /* Adjust as needed */
 }
 
 a {
